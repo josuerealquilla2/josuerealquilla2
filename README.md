@@ -1,35 +1,14 @@
 <div align="center">
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:020617,50:0E7490,100:22D3EE&amp;text=Josu%C3%A9%20David%20Real%20Quilla&amp;fontColor=FFFFFF&amp;fontSize=38&amp;fontAlignY=38&amp;desc=DESARROLLADOR%20WEB%20%7C%20CONSULTOR%20DYNAMICS%20365&amp;descSize=16&amp;descAlignY=58&amp;animation=fadeIn" alt="Josué David Real Quilla">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&amp;height=100&amp;text=Frontend%20%E2%80%A2%20Backend%20%E2%80%A2%20Dynamics%20365%20%E2%80%A2%20Power%20Platform&amp;fontSize=19&amp;fontColor=22D3EE&amp;animation=fadeIn" alt="Presentación profesional">
 
  <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;height=130&amp;color=0:22D3EE,50:A855F7,100:F472B6&amp;text=%C2%A1Hola!%20Un%20gusto%20verte%20por%20aqu%C3%AD&amp;fontColor=FFFFFF&amp;fontSize=28&amp;animation=fadeIn&amp;stroke=22D3EE&amp;strokeWidth=1" alt="¡Hola! Un gusto verte por aquí">
 </div>
-  <p>
-    Desarrollo aplicaciones web y complemento mi perfil con Microsoft Dynamics 365 y Power Platform.
-  </p>
 
-  <p>
-    <a href="mailto:quillajosue92@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-ESCRIBIR-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email">
-    </a>
-    <a href="https://www.linkedin.com/in/josue-david-real-quilla-773549348">
-      <img src="https://img.shields.io/badge/LINKEDIN-CONECTAR-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://github.com/josuerealquilla2">
-      <img src="https://img.shields.io/badge/GITHUB-PERFIL-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub">
-    </a>
-  </p>
-  
-
-  
-  
   [Sobre mí](#-sobre-mí) •
   [Perfil profesional](#-perfil-profesional) •
-  [Tecnologías](#-tecnologías) •
-  [Contacto](#-contacto)
-
+  [Tecnologías](#-tecnologías) 
 </div>
 
 ---
@@ -49,6 +28,18 @@ Trabajo con tecnologías **frontend y backend**, cuidando la estructura del proy
 También desarrollo mi perfil como **consultor Microsoft Dynamics 365 y Power Platform**, conectando la tecnología con las necesidades reales de una empresa mediante aplicaciones, automatizaciones y procesos organizados.
 
 Me definen la responsabilidad, la curiosidad, la colaboración y el compromiso con seguir mejorando cada proyecto.
+
+<p>
+    <a href="mailto:quillajosue92@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-ESCRIBIR-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email">
+    </a>
+    <a href="https://www.linkedin.com/in/josue-david-real-quilla-773549348">
+      <img src="https://img.shields.io/badge/LINKEDIN-CONECTAR-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/josuerealquilla2">
+      <img src="https://img.shields.io/badge/GITHUB-PERFIL-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub">
+    </a>
+  </p>
 
 </td>
 <td width="35%" valign="top">
